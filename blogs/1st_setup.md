@@ -19,7 +19,7 @@ title: 1st_setup
 
 需要注意的是，这个项目的名字一定要是【你的GitHub用户名.github.io】，比如我的GitHub名字叫“name111”，那我的项目的名称就应该是“name111.github.io"。接着创建完之后有如下界面。（对于新手不熟悉git操作的话，强烈推荐GitHub的desktop，可以帮你免去很多git指令，很方便）
 
-![创建完项目后](pic\after_newres.png)
+![创建完项目后](pic/after_newres.png)
 
 接着在这个仓库里上传md或者html文件就好了，注意第一个文件命名为index.html或index.md
 
@@ -35,7 +35,7 @@ title: 1st_setup
 
 然后会有下图的效果。好了，网站已经创建完成了，接下来就是前端美化的任务了，可以按照你的想法去完善你的个人主页了。
 
-![github_page](pic\github_page.png)
+![github_page](pic/github_page.png)
 
 ### 修改域名
 
@@ -43,7 +43,7 @@ title: 1st_setup
 
 有很多购买域名的企业，比如[阿里云](https://wanwang.aliyun.com/domain)，[华为云](https://www.huaweicloud.com/product/domain.html)，登录网站，实名认证之后选择一个自己喜欢的域名
 
-<img src="pic\domain1.jpg" alt="购买域名" style="zoom:50%;" />
+<img src="pic/domain1.jpg" alt="购买域名" style="zoom:50%;" />
 
 在红框里输入自己想要的域名，选择一个合适的后缀，如果没有人注册过，那就可以归你了。
 
@@ -51,7 +51,7 @@ title: 1st_setup
 
 购买了合适的域名之后，华为会先进行人工审核（一般是几个小时），通过后按照华为云的教程将DNS修改为华为DNS，然后新建一个解析
 
-<img src="pic\jiexi1.png" style="zoom: 33%;" /><img src="pic\jiexi2.png" style="zoom:50%;" /><img src="pic\jiexi3.png" style="zoom: 50%;" />
+<img src="pic/jiexi1.png" style="zoom: 33%;" /><img src="pic/jiexi2.png" style="zoom:50%;" /><img src="pic/jiexi3.png" style="zoom: 50%;" />
 
 最后一步！在GitHub的个人主页的仓库里添加一个文件CNAME文件，注意没有后缀，在里面写上你的域名，就大功告成了！快去试试吧
 
