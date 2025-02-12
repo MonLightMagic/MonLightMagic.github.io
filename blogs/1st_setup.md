@@ -2,7 +2,7 @@
 layout: page
 permalink: /blogs/1st_setup/index.html
 title: 1st_setup
-
+typora-root-url: ./
 ---
 
 > Final update in: 2025/02/12
@@ -51,7 +51,11 @@ title: 1st_setup
 
 购买了合适的域名之后，华为会先进行人工审核（一般是几个小时），通过后按照华为云的教程将DNS修改为华为DNS，然后新建一个解析
 
-<img src="pic/jiexi1.png" alt="jiexi1" style="zoom: 50%;" /><img src="pic/jiexi2.png" alt="jiexi2" style="zoom: 50%;" /><img src="pic/jiexi3.png" alt="jiexi3" style="zoom: 50%;" />
+![](/pic/jiexi1.png)
+
+![](/pic/jiexi2.png)
+
+![](/pic/jiexi3.png)
 
 最后一步！在GitHub的个人主页的仓库里添加一个文件CNAME文件，注意没有后缀，在里面写上你的域名，就大功告成了！快去试试吧
 
