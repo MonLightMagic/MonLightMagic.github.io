@@ -8,6 +8,6 @@ title: Blogs
 
 ### 2025
 
-- [3.1组会分享](http://zhangyuyang.top/blogs/2.21share)
+- 
 
 - [建立个人网站的一些感想](http://zhangyuyang.top/blogs/1st_setup)
