@@ -25,6 +25,7 @@ owner:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
+  wechat: /assets/wechat_qrcode.jpg
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
@@ -84,4 +85,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Latest update in 2025/3/14 by Yuyang Zhang.
